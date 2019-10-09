@@ -1,0 +1,9 @@
+pattern:
+  questions_%s.csv
+lang:
+  en-En,ru-RU
+config:
+  encoding:
+    UTF-8
+  basename:
+    info
